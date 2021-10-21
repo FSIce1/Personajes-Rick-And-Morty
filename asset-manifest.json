@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Personajes-Rick-And-Morty/static/css/main.7b6eb0d3.chunk.css",
+    "main.js": "/Personajes-Rick-And-Morty/static/js/main.b7c8fa91.chunk.js",
+    "main.js.map": "/Personajes-Rick-And-Morty/static/js/main.b7c8fa91.chunk.js.map",
+    "runtime-main.js": "/Personajes-Rick-And-Morty/static/js/runtime-main.977c5d6a.js",
+    "runtime-main.js.map": "/Personajes-Rick-And-Morty/static/js/runtime-main.977c5d6a.js.map",
+    "static/js/2.42db69ce.chunk.js": "/Personajes-Rick-And-Morty/static/js/2.42db69ce.chunk.js",
+    "static/js/2.42db69ce.chunk.js.map": "/Personajes-Rick-And-Morty/static/js/2.42db69ce.chunk.js.map",
+    "static/js/3.45707703.chunk.js": "/Personajes-Rick-And-Morty/static/js/3.45707703.chunk.js",
+    "static/js/3.45707703.chunk.js.map": "/Personajes-Rick-And-Morty/static/js/3.45707703.chunk.js.map",
+    "index.html": "/Personajes-Rick-And-Morty/index.html",
+    "static/css/main.7b6eb0d3.chunk.css.map": "/Personajes-Rick-And-Morty/static/css/main.7b6eb0d3.chunk.css.map",
+    "static/js/2.42db69ce.chunk.js.LICENSE.txt": "/Personajes-Rick-And-Morty/static/js/2.42db69ce.chunk.js.LICENSE.txt",
+    "static/media/logo.1b66704f.png": "/Personajes-Rick-And-Morty/static/media/logo.1b66704f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.977c5d6a.js",
+    "static/js/2.42db69ce.chunk.js",
+    "static/css/main.7b6eb0d3.chunk.css",
+    "static/js/main.b7c8fa91.chunk.js"
+  ]
+}
